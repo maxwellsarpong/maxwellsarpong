@@ -1,7 +1,7 @@
 ### Hi, 👋 Am MAXWELL SARPONG
 
 <!--
-### <img src="https://raw.githubusercontent.com/maxwellsarpong/maxwellsarpong/master/maxwell.png" alt="banner that says Maxwell Sarpong - software engineer">
+### <img src="https://raw.githubusercontent.com/maxwellsarpong/maxwellsarpong/master/maxwell.jpg" alt="banner that says Maxwell Sarpong - software engineer">
 Versatile developer with 2 years of experience in software programming. Self directed leader with expertise in Web Applications, Cross platform Application development and Big Data Analytics. Talented at cultivating collaborative and supportive team environment. -->
 
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
