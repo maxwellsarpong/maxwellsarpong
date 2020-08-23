@@ -16,7 +16,7 @@ Versatile developer with 2 years of experience in software programming. Self dir
 ### Tools:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxwellsarpong)](https://github.com/anuraghazra/github-readme-stats)
 
-### Loved Tools...
+### :heart:Loved Tools...
 :heavy_check_mark:Python
 :heavy_check_mark:R
 :heavy_check_mark:DART & FLUTTER
