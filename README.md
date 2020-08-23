@@ -16,6 +16,23 @@ Versatile developer with 2 years of experience in software programming. Self dir
 ### Tools:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxwellsarpong)](https://github.com/anuraghazra/github-readme-stats)
 
+### Loved Tools...
+:heavy_check_mark:Python
+:heavy_check_mark:R
+:heavy_check_mark:DART & FLUTTER
+:heavy_check_mark:MYSQL
+:heavy_check_mark:DJANGO
+
+### 🌱 I’m currently learning ...
+:heavy_check_mark:VUE.JS
+:heavy_check_mark:LARAVEL
+:heavy_check_mark:NODE.JS
+:heavy_check_mark:REST API
+
+### 🤔 Tools learnt before but never used  ...
+:heavy_check_mark:MONGO DB
+	
+
 <!--
 **maxwellsarpong/maxwellsarpong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
