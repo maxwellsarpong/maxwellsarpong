@@ -4,7 +4,7 @@
 Versatile developer with 2 years of experience in software programming. Self directed leader with expertise in Web Applications, Cross platform Application development and Big Data Analytics. Talented at cultivating collaborative and supportive team environment.
 
 ## Find me around the web 🌎: <img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true">
-- Twitterng tech news on <a href="https://twitter.com/max_quophi"> Twitter </a>:penguin:
+- Twittering tech news on <a href="https://twitter.com/max_quophi"> Twitter </a>:penguin:
 - Sharing updates on <a href="https://www.linkedin.com/in/maxwell-sarpong-8807a7158/">LinkedIn</a> 💼
 
 ### <u>Field of specializations are</u>:
