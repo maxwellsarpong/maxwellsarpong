@@ -1,7 +1,7 @@
 ### Hi, 👋 Am
 
 ### <img src="https://raw.githubusercontent.com/maxwellsarpong/maxwellsarpong/master/sarp.jpg" alt="banner that says Maxwell Sarpong - software engineer">
-Strong in design and integration with intuitive problem-solving skills. Proficient in PYTHON, JAVA, C# JAVASCRIPT, POSTGRES SQL, FLUTTER and SQL. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions.
+Strong in design and integration with intuitive problem-solving skills. Proficient in PYTHON, Go, MongoDB, POSTGRES SQL, FLUTTER and SQL. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions.
 
 ## Find me around the web 🌎: <img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true">
 - Twittering tech news on <a href="https://twitter.com/max_quophi"> Twitter </a>:penguin:
@@ -18,16 +18,10 @@ Strong in design and integration with intuitive problem-solving skills. Proficie
 
 ### <u>:heart:Loved Tools...</u>
 :heavy_check_mark:Python
-:heavy_check_mark:R
+:heavy_check_mark:Go
 :heavy_check_mark:DART & FLUTTER
 :heavy_check_mark:MYSQL
 :heavy_check_mark:DJANGO
-
-### <u>🌱 I’m currently learning ...</u>
-:heavy_check_mark:VUE.JS
-:heavy_check_mark:LARAVEL
-:heavy_check_mark:NODE.JS
-:heavy_check_mark:REST API
 
 ### <u>🤔 Tools learnt before but never used  ...</u>
 :heavy_check_mark:MONGO DB
