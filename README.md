@@ -22,9 +22,6 @@ Strong in design and integration with intuitive problem-solving skills. Proficie
 :heavy_check_mark:DART & FLUTTER
 :heavy_check_mark:MYSQL
 :heavy_check_mark:DJANGO
-
-### <u>🤔 Tools learnt before but never used  ...</u>
-:heavy_check_mark:MONGO DB
 	
 
 <!--
