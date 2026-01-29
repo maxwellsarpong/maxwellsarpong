@@ -19,9 +19,11 @@ Strong in design and integration with intuitive problem-solving skills. Proficie
 ### <u>:heart:Loved Tools...</u>
 :heavy_check_mark:Python
 :heavy_check_mark:Go
-:heavy_check_mark:DART & FLUTTER
+:heavy_check_mark:Scala
 :heavy_check_mark:MYSQL
-:heavy_check_mark:DJANGO
+:heavy_check_mark:PostgreSQL
+:heavy_check_mark:Java
+:heavy_check_mark:MongoDB
 	
 
 <!--
