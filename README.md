@@ -12,8 +12,6 @@ Strong in design and integration with intuitive problem-solving skills. Proficie
 :heavy_check_mark:Platform Engineering
 :heavy_check_mark:Product Engineering
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=maxwellsarpong&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### <u>:heart:Loved Tools...</u>
 :heavy_check_mark:Python
