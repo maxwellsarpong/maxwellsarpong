@@ -1,15 +1,16 @@
 ### Hi, 👋 Am
 
 ### <img src="https://raw.githubusercontent.com/maxwellsarpong/maxwellsarpong/master/sarp.jpg" alt="banner that says Maxwell Sarpong - software engineer">
-Strong in design and integration with intuitive problem-solving skills. Proficient in Python, Go, MongoDB, Postgres SQL, Flutter and Mysql. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions.
+Strong in design and integration with intuitive problem-solving skills. Proficient in Python, Go, MongoDB, Postgres SQL, Scala, Java and Mysql. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions.
 
 ## Find me around the web 🌎: <img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true">
 - Twittering tech news on <a href="https://twitter.com/max_quophi"> Twitter </a>:penguin:
 - Sharing updates on <a href="https://www.linkedin.com/in/maxwell-sarpong-8807a7158/">LinkedIn</a> 💼
 
 ### <u>Field of specializations are</u>:
-:heavy_check_mark:Application Development 
-:heavy_check_mark:Big Data Analytics
+:heavy_check_mark:Backend Engineering 
+:heavy_check_mark:Platform Engineering
+:heavy_check_mark:Product Engineering
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=maxwellsarpong&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
