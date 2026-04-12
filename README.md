@@ -3,7 +3,7 @@
 ### <img src="https://raw.githubusercontent.com/maxwellsarpong/maxwellsarpong/master/sarp.jpg" alt="banner that says Maxwell Sarpong - software engineer">
 Strong in design and integration with intuitive problem-solving skills. Proficient in Python, Go, MongoDB, Postgres SQL, Scala, Java and Mysql. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions.
 
-## Find me around the web 🌎: <img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true">
+## Find me around the web 🌎:
 - Twittering tech news on <a href="https://twitter.com/max_quophi"> Twitter </a>:penguin:
 - Sharing updates on <a href="https://www.linkedin.com/in/maxwell-sarpong-8807a7158/">LinkedIn</a> 💼
 
