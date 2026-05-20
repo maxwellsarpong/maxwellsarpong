@@ -12,8 +12,6 @@ Strong in design and integration with intuitive problem-solving skills. Proficie
 :heavy_check_mark:Platform Engineering
 :heavy_check_mark:Product Engineering
 
-
-### <u>:heart:Loved Tools...</u>
 :heavy_check_mark:Python
 :heavy_check_mark:Go
 :heavy_check_mark:Scala
